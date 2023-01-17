@@ -1,1 +1,2 @@
-# mongoose-typescript
+# mongoose typescript
+examples of crud operations
